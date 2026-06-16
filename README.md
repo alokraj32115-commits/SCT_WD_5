@@ -167,6 +167,6 @@ Amawan Premium League (APL)
 
 Version: 1.0
 Email: alokraj32115@gmail.com
-GitHub:
+GitHub:https://github.com/alokraj32115-commits/SCT_WD_5
 Live project:
 Linkedln:www.linkedin.com/in/alok-raj-7bb755408
