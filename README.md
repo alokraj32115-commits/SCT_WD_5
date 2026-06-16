@@ -166,11 +166,7 @@ No server installation is required.
 Amawan Premium League (APL)
 
 Version: 1.0
-
-Built with:
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
-
-© APL Scoreboard Project
+Email: alokraj32115@gmail.com
+GitHub:
+Live project:
+Linkedln:www.linkedin.com/in/alok-raj-7bb755408
